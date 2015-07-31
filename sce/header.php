@@ -18,9 +18,9 @@
 ?>
 <div class="header" id="gradient">
     <div class="left-image"><a  href="/">
-            <img class="logo" src="../sce/images/icaro.png"/>
+            <img class="logo" src="../sce/images/logo.png"/>
         </a>
     </div>
-    <div class="text">Smart Cloud Engine <a href="http://www.disit.org/drupal/?q=node/5482" target="_blank"><img class="info" src="../sce/images/info-icon.png"/></a><br><span class="subtext"><a href="http://www.disit.org" target="_blank">DISIT - Distributed Systems and Internet Technology Lab</a></span></div>
+    <div class="text">Smart Cloud Engine <a href="http://www.disit.org/" target="_blank"><img class="info" src="../sce/images/info-icon.png"/></a><br><span class="subtext"><a href="http://www.disit.org" target="_blank">DISIT - Distributed Systems and Internet Technology Lab</a></span></div>
 
 </div>
